@@ -1,4 +1,4 @@
 # Processing-video-effect
-1. Intersecting Slit-scan
-2. Random color software mirror
-3. OpenCV Face recognition with + gif mask
+1. cross_slitscan: Intersecting Slit-scan
+2. neon_mirror: Random color software mirror
+3. face_gif: OpenCV Face recognition with + gif mask
